@@ -1,5 +1,4 @@
 import React from "react";
-import {ReactDOM} from "react";
 import NavBar from "./NavBar.jsx"
 import Container from "./Container.jsx"
 import Cards from "./Cards.jsx";
