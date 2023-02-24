@@ -5,7 +5,7 @@ const Container =()=>{
      return (
     <>
     <div className="container">
-      <div className="row col-12 ">
+      <div className="row m-auto">
         <div className="jumbotron bg-light">
         <h1 className="display-4">A Warm Welcome!</h1>
         <p className="lead">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Voluptates culpa quas nostrum necessitatibus placeat nobis expedita aperiam deserunt laboriosam saepe obcaecati facilis odit ipsam quod dolor perferendis, quos est nihil!</p>
