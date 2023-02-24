@@ -10,6 +10,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
-#background{
-    background-color: rgb(34, 74, 114);
+.imagen{
+    height: 300px;
+    width: 300px;
 }
